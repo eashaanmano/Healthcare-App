@@ -90,11 +90,4 @@
 
     </p>
 
-9.  ### Project Members 👨‍👦
-
-    <br/>
-
-    <a href="https://github.com/eashaanmano">![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89720984?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) &nbsp;&nbsp;
-   
-
 ---
