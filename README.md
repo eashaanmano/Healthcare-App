@@ -49,10 +49,8 @@
 
 <p>As we are developing a mobile application there are 4 platform supported.
 <ul>
-  <li>iOS</li>
   <li>Android</li>
-  <li>Window Phone 7</li>
-  <li>Blackberry</li>
+  <li>iOS</li>
   </ul>
     As in our project, target audience is broad audience and mostly audience have android phones. So, we are developing a native mobile application which is supported on android device.
 </p>
