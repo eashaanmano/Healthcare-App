@@ -1,6 +1,6 @@
-<h1 align="center">Healthcare Center Application</h1>
+<h1 align="center">Healthcare Mobile App</h1>
 
-<h3 align="center">This Project is Part of My Mobile Application Development Course</h3>
+<h3 align="center">Mobile Application Development Course Project</h3>
 
 <hr/>
 <br>
